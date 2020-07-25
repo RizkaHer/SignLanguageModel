@@ -14,7 +14,7 @@ This repository includes:
 - The result preview after Sign Language training can be seen in the notebook.
 
 # Installation
-1. Clone the repository on your drive
-2. Create shortcut of image training to your directory in google drive
-3. Add trained weight inside your folder
-4. Open notebook using Google Colaboratory
+1. Open notebook using Google Colaboratory
+2. Clone the repository on your drive
+3. Create shortcut of image training to your directory in google drive
+4. Add trained weight inside your folder
